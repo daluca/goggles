@@ -8,7 +8,12 @@
 $boost=7,site=rnz.co.nz
 $boost=6,site=thespinoff.co.nz
 $boost=3,site=stuff.co.nz
+$boost=1,site=scoop.co.nz
 $downrank,site=nzherald.co.nz
+
+! New Zealand government
+$boost=3,site=govt.nz
+$boost=3,site=vote.nz
 
 ! Social media
 $discard,site=facebook.com
@@ -21,7 +26,7 @@ $downrank=2,site=twitter.com
 $downrank=3,site=linkedin.com
 
 ! Wikis
-$boost=5,site=wikipedia.com
+$boost=5,site=en.wikipedia.org
 
 ! Tech sites
 $boost=5,site=github.com
