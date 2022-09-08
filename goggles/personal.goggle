@@ -39,6 +39,9 @@ $boost=2,site=stackoverflow.com
 ! Shopping
 
 $discard,site=amazon.com
+$discard,site=amazon.com.au
+$discard,site=amazon.co.uk
+$discard,site=amazon.co.jp
 $discard,site=ebay.com
 $boost=3,site=pbtech.co.nz
 $boost=2,site=mightyape.co.nz
