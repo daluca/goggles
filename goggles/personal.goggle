@@ -21,7 +21,7 @@ $downrank=2,site=twitter.com
 $downrank=3,site=linkedin.com
 
 ! Wikis
-$boost=5,site=wikipedia.com
+$boost=5,site=en.wikipedia.org
 
 ! Tech sites
 $boost=5,site=github.com
