@@ -29,6 +29,9 @@ $downrank=3,site=linkedin.com
 $boost=5,site=en.wikipedia.org
 
 ! Tech sites
+$discard,site=google.com
+$discard,site=apple.com
+$discard,site=microsoft.com
 $boost=5,site=github.com
 $boost=5,site=gitlab.com
 $boost=2,site=stackoverflow.com
