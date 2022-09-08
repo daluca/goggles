@@ -2,10 +2,6 @@
 ! description: My own collection of search preferences
 ! public: false
 ! author: daluca
-! avatar: #ff80000
-
-! Ordering
-! discard > boost > downrank
 
 ! New Zealand news
 $boost=7,site=rnz.co.nz
