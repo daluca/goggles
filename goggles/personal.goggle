@@ -21,7 +21,7 @@ $discard,site=instagram.com
 $discard,site=tiktok.com
 $discard,site=snapchat.com
 $discard,site=tumblr.com
-$boost=3,site=reddit.com
+$boost=1,site=reddit.com
 $downrank=2,site=twitter.com
 $downrank=3,site=linkedin.com
 
@@ -32,9 +32,9 @@ $boost=5,site=en.wikipedia.org
 $discard,site=google.com
 $discard,site=apple.com
 $discard,site=microsoft.com
-$boost=5,site=github.com
-$boost=5,site=gitlab.com
 $boost=2,site=stackoverflow.com
+$boost=1,site=github.com
+$boost=1,site=gitlab.com
 
 ! Shopping
 
