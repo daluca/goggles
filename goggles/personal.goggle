@@ -11,8 +11,19 @@ $downrank,site=nzherald.co.nz
 
 ! Social media
 $discard,site=facebook.com
-$discard,site=twitter.com
+$discard,site=instagram.com
+$discard,site=tiktok.com
+$discard,site=snapchat.com
+$discard,site=tumblr.com
 $boost=3,site=reddit.com
+$downrank=2,site=twitter.com
+$downrank=3,site=linkedin.com
+
+! Wikis
+$boost=5,site=wikipedia.com
+
+! Tech sites
+$boost=2,site=stackoverflow.com
 
 ! Toxic news sites
 $discard,site=breitbart.com
