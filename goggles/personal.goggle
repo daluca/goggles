@@ -4,9 +4,6 @@
 ! author: daluca
 ! avatar: #ff80000
 
-! Ordering
-! discard > boost > downrank
-
 ! New Zealand news
 $boost=7,site=rnz.co.nz
 $boost=3,site=stuff.co.nz
