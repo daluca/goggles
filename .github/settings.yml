@@ -7,7 +7,7 @@ repository:
   name: goggles
 
   # A short description of the repository that will show up on GitHub
-  description: Collection of [Brave Search](https://search.brave.com/) goggles
+  description: Collection of Brave Search goggles
 
   # Either `true` to make the repository private, or `false` to make it public.
   private: false
