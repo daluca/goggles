@@ -2,7 +2,7 @@
 ! description: My own collection of search preferences
 ! public: false
 ! author: daluca
-! avatar: #Ff80000
+! avatar: #2596be
 
 ! New Zealand news
 $boost=7,site=rnz.co.nz
