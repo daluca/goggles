@@ -24,6 +24,8 @@ $downrank=3,site=linkedin.com
 $boost=5,site=wikipedia.com
 
 ! Tech sites
+$boost=5,site=github.com
+$boost=5,site=gitlab.com
 $boost=2,site=stackoverflow.com
 
 ! Toxic news sites
