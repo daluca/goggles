@@ -36,5 +36,13 @@ $boost=5,site=github.com
 $boost=5,site=gitlab.com
 $boost=2,site=stackoverflow.com
 
+! Shopping
+
+$discard,site=amazon.com
+$discard,site=ebay.com
+$boost=3,site=pbtech.co.nz
+$boost=2,site=mightyape.co.nz
+$downrank,site=trademe.co.nz
+
 ! Toxic news sites
 $discard,site=breitbart.com
